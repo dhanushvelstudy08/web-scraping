@@ -4,4 +4,5 @@ crawl4ai
 beautifulsoup4
 nest_asyncio
 playwright
+openpyxl
 lxml
