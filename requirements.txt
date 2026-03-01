@@ -1,0 +1,7 @@
+streamlit
+pandas
+crawl4ai
+beautifulsoup4
+nest_asyncio
+playwright
+lxml
